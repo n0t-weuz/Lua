@@ -12,3 +12,11 @@
 <p><a href = "https://github.com/not-xen0n/Lua/blob/main/bsstrainer.lua">Bee Swarm Simulator Trainer</a> - useful trainer for Roblox place</p>
 
 _will be continued..._
+
+<h2 align = "center">Links</h2>
+
+[Discord Main](https://discord.gg/ppRjmhGvtD)<br>
+[Discord Second](https://discord.gg/9vG8UJXuNf)<br>
+[Discord Bio](dsc.bio/xen0n)<br>
+~~Youtube~~ _(currently down)_<br>
+[Twitter](twitter.com/not_xen0n)<br>
