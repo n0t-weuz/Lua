@@ -25,7 +25,7 @@ _will be continued..._
 
 [Discord Main](https://discord.gg/ppRjmhGvtD)<br>
 [Discord Second](https://discord.gg/9vG8UJXuNf)<br>
-[Discord Bio](dsc.bio/xen0n)<br>
+[Discord Bio](https://dsc.bio/xen0n)<br>
 ~~Youtube~~ _(currently down)_<br>
-[Twitter](twitter.com/not_xen0n)<br>
+[Twitter](https://twitter.com/not_xen0n)<br>
 [VK](https://vk.com/not_xen0n)
