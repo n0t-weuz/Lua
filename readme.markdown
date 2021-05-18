@@ -23,3 +23,5 @@ _will be continued..._
 [Discord Bio](dsc.bio/xen0n)<br>
 ~~Youtube~~ _(currently down)_<br>
 [Twitter](twitter.com/not_xen0n)<br>
+
+_И да, я русскоговорящий, так-что можете общаться со мной на русском, а не на английском"
