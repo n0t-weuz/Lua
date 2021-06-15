@@ -167,9 +167,9 @@ function finity.new(isdark, gprojectName, thinProject)
 	}
 
 	self2.ChangeToggleKey = function(NewKey)
-    while wait(1) do
-		finityData.ToggleKey = _G.togglekey
-    end
+    		while wait() do
+			finityData.ToggleKey = NewKey
+    		end
 		
 		if not projectName then
 			self2.tip.Text = "Press '".. string.sub(tostring(NewKey), 14) .."' to hide this menu"
