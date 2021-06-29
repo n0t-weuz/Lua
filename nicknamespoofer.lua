@@ -241,15 +241,3 @@ if filter_httpget.enabled and type(hookfunc or hookfunction or detour_function) 
     end)
 end
 scan_and_replace(true)
-while wait(1) do
-    if rename_instances then
-        Players.LocalPlayer.Name = new_name
-        if Players.LocalPlayer.Character then
-            Players.LocalPlayer.Character.Name = new_name
-        end
-    end
-    if change_id then
-        Players.LocalPlayer.UserId = tonumber(tonumber(new_id or 1) or 1)
-    end
-    scan_and_replace()
-end
