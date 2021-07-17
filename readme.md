@@ -26,5 +26,5 @@ _will be continued..._
 [Discord Main](https://discord.gg/ppRjmhGvtD)<br>
 [Discord Second](https://discord.gg/9vG8UJXuNf)<br>
 ~~Youtube~~ _(currently down)_<br>
-[Twitter](https://twitter.com/not_xen0n)<br>
-[VK](https://vk.com/not_xen0n)
+[Twitter](https://twitter.com/not_weuz)<br>
+[VK](https://vk.com/not_weuz)
